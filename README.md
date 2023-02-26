@@ -1,10 +1,27 @@
 
 
-<div>
-  
-  <a href="https://github.com/devjohnnydev">
-  <div/>
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5001&pause=1000&color=7327F7&center=&vCenter=&repeat=verdadeiro&width=435&lines=Ol%C3%A1!%2C++seja+bem+vindo+ao+meu+perfil;Estou+sempre+buscando+conhecimento;Entusiasta+de+tecnologia+)](https://git.io/typing-svg)
-  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf00bf&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bf00bf&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+me+chamo+Johnny;Estou+sempre+buscando+conhecimento;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
+
+
+
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bryaanls&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Bryan Soares - status de atividade no github" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryaanls&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bryaanls&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+<div align="center">  
+<a href="https://www.instagram.com/johnnybragaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+ 
+### Tecnologias que uso no meu dia a dia
+    
+<div style="display: inline_block">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</div>
